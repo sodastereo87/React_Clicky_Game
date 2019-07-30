@@ -1,0 +1,14 @@
+.wrapper {
+    background: black;
+    background-image: url('https://get.wallhere.com/photo/illustration-artwork-text-logo-Dragon-Ball-Dragon-Ball-GT-circle-Dragon-Ball-Super-Dragon-Ball-Z-Dragon-Ball-Z-Kai-brand-Capsule-Corporation-number-screenshot-computer-wallpaper-font-104108.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+   
+  }
